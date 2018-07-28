@@ -11,6 +11,9 @@
   </p>
 </div>
 
+
+[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+
 ## 这是什么？
 
 与典型的软件工程师面试不同，前端面试对算法的重视比较低。面试会更多考查错综复杂的前端知识，像 HTML、CSS、JavaScript 等等。
