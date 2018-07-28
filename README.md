@@ -11,6 +11,9 @@
   </p>
 </div>
 
+
+[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+
 ## What is this?
 
 Unlike typical software engineer job interviews, front-end job interviews have less emphasis on algorithms and have more questions on intricate knowledge and expertise about the domain — HTML, CSS, JavaScript, just to name a few areas.
