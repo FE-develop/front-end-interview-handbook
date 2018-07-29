@@ -13,6 +13,7 @@
 
 
 [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+[前端面试题2](https://github.com/qiu-deqing/FE-interview)
 
 ## What is this?
 
